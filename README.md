@@ -51,4 +51,24 @@ Untracked files:
     WIll tell you if you have new index = red
     Green when committed = Green text
 
+Up Key: Goes to the previous command
+
+Tab Key - While typing a file/folder name fills out the filename if it's there and unique.
+
+Special DIrectories: 
+
+~/ - User Directory (Tilde Slash) (/Users/bevnelsen)
+
+../ - One directory up (Parent Directory)
+
+./ - Current Directory
+
+/ -  (nothing) Root Directory
+
+cp = copy file <targetfile> <destination file>
+Copies a file from target to desitination
+
+mv <mv >
+
+
 
