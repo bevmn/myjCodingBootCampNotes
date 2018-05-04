@@ -36,3 +36,19 @@ Creates a new file with the name filename
 ### rmdir 
 
 Removes or deletes a directory
+
+
+Class 2 Notes: 5/03/18
+See Phone Image of Basic Git Commands and meanings
+
+git status - Diagnostic
+
+git pull downloads freshest version of file
+
+Untracked files: 
+    (use "git reset HEAD <file>..."to unstage)
+
+    WIll tell you if you have new index = red
+    Green when committed = Green text
+
+
